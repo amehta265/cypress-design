@@ -1,5 +1,12 @@
 # @cypress-design/test-vue-app
 
+## 0.0.19
+
+### Patch Changes
+
+- Updated dependencies [[`c9a1ffa`](https://github.com/cypress-io/cypress-design/commit/c9a1ffa06027e11e34bbd0c10a242155458052b3)]:
+  - @cypress-design/vue-icon@0.13.0
+
 ## 0.0.18
 
 ### Patch Changes

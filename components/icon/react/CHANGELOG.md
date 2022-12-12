@@ -1,5 +1,16 @@
 # @cypress-design/react-icon
 
+## 0.12.0
+
+### Minor Changes
+
+- [#117](https://github.com/cypress-io/cypress-design/pull/117) [`c9a1ffa`](https://github.com/cypress-io/cypress-design/commit/c9a1ffa06027e11e34bbd0c10a242155458052b3) Thanks [@elevatebart](https://github.com/elevatebart)! - Add action-play-video icons
+
+### Patch Changes
+
+- Updated dependencies [[`c9a1ffa`](https://github.com/cypress-io/cypress-design/commit/c9a1ffa06027e11e34bbd0c10a242155458052b3)]:
+  - @cypress-design/icon-registry@0.15.0
+
 ## 0.11.1
 
 ### Patch Changes
